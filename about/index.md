@@ -11,7 +11,6 @@ comments: false
 ## Feature
 * Male
 * Single
-* 181cm
 * Developer
 * Weired
 * Not too much words
